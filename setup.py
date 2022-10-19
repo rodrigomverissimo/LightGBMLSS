@@ -21,7 +21,6 @@ setup(
         "torch~=1.10.0",
         "properscoring~=0.1",
         "scikit-learn>=0.24.2",
-        "shap~=0.39.0",
         "numpy~=1.16",
         "pandas~=1.1",
         "plotnine~=0.8.0",
